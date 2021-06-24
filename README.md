@@ -1,5 +1,5 @@
 # Web Scraping project with Python 
-## beautiful soup - tkinter - pymysql - urllib
+### beautiful soup - tkinter - pymysql - urllib
 
 ### Amazon vs Flipkart 
 
